@@ -1,1 +1,7 @@
--Mauricio H
+-Mauricio H oe
+<<<<<<< HEAD
+=======
+ESTA ES UNA LINEA ASDADAS
+-Sara M
+-Andres M
+>>>>>>> 0dc2c3d90c55b6c56ebffb51c5738bebe56c0e7d
