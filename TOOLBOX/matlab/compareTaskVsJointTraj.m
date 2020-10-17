@@ -1,3 +1,4 @@
+% Compares joint space vs. task space trajectories
 % Copyright 2019 The MathWorks, Inc.
 
 %% Setup
